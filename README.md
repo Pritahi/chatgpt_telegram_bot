@@ -118,3 +118,5 @@ You can be in this list: <a href="https://github.com/karfly/chatgpt_telegram_bot
 
 ## References
 1. [*Build ChatGPT from GPT-3*](https://learnprompting.org/docs/applied_prompting/build_chatgpt)
+
+[![Run on Repl.it](https://replit.com/badge/github/karfly/chatgpt_telegram_bot)](https://replit.com/new/github/karfly/chatgpt_telegram_bot)
